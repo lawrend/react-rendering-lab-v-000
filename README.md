@@ -63,6 +63,6 @@ By the end of this section, the test under `<Pikachu />` should be passing.
 
 ## Resources
 
-- [React: Component Specs and Lifecycle](https://github.com/learn-co-curriculum/react-rendering)
+- [React: Component Specs and Lifecycle](https://reactjs.org/docs/react-component.html)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/react-rendering-lab'>Rendering Lab</a> on Learn.co and start learning to code for free.</p>
